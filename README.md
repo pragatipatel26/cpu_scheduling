@@ -6,10 +6,15 @@ CPU Scheduling algorithm in operating system is used to decide which process get
 Main purpose of CPU scheduling is to maximize the CPU Utilization and minimize the response and waiting time for process.
 
 ## Terminology 
-1)Arrival Time: The time at which the process arrives in the ready queue.
-2)Completion Time: The time at which the process completes its execution.
-3)Burst Time: Time required by a process for CPU execution.
-4)Turn Around Time: Time Difference between completion time and arrival time.
-5)Waiting Time(W.T): Time Difference between turn around time and burst time.
+# Arrival Time
+The time at which the process arrives in the ready queue.
+# Completion Time
+The time at which the process completes its execution.
+# Burst Time
+Time required by a process for CPU execution.
+# Turn Around Time
+Time Difference between completion time and arrival time.
+# Waiting Time(W.T)
+Time Difference between turn around time and burst time.
 
 
