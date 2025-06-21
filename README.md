@@ -1,5 +1,4 @@
-## Introduction
-Implementation of CPU Scheduling Algorithm in C++.
+# Implementation of CPU Scheduling Algorithm in C++.
 
 ## Need for CPU Scheduling Algorithm
 CPU Scheduling algorithm in operating system is used to decide which process get to use CPU at a particualr time
